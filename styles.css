@@ -37,3 +37,13 @@ td {
     border: 1px solid;
 }
 
+.fila {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.fila h4 {
+    margin: 10px 140px;
+}
